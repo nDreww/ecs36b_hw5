@@ -3,8 +3,8 @@ This program aims to represent "object mobility" by transferring objects from on
 ## Developers
 Hanson Nguyen: 919227725  
 Alfredo Nieto: 917137244  
-_________: 919388431  
-_________: 919388431
+Bryant Gonzalez: 918470625
+Aidan Tongco: 919388431
 ## How to run
 Compile with make
 ```bash
